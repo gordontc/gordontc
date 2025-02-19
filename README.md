@@ -4,9 +4,6 @@
 
 <br clear="both">
 
-<img align="left" height="200" src="https://avatars.githubusercontent.com/u/72669494?s=400&u=6e092d15a6b5ec77548c726580f2fedac8102456&v=4"  />
-
-###
 
 <p align="left">I'm Gustavo, better known as Barreto, I'm 21 years old, and I live in the countryside of São Paulo.<br>"I dream of being a programmer and living life as it should be!"</p>
 
